@@ -1,0 +1,6 @@
+name,email,phone,main_link,plus_one_link_1,plus_one_link_2,plus_one_link_3
+John Doe,john.doe@example.com,297-522-2566,https://api.reservation.nichemagazine.me/?id=8l04cxuc3at6tdg&type=primary_invitation,,,
+Jane Smith,jane.smith@example.com,545-500-3776,https://api.reservation.nichemagazine.me/?id=lrvknmoj3qsojbk&type=primary_invitation,,,
+Bob Johnson,bob.johnson@example.com,474-650-8024,https://api.reservation.nichemagazine.me/?id=95jiemgj5xksz8j&type=primary_invitation,https://api.reservation.nichemagazine.me/?id=5nr8ehieeritz1h&type=secondary_invitation,https://api.reservation.nichemagazine.me/?id=q2hz52iic2sm6xm&type=secondary_invitation,
+Alice Brown,alice.brown@example.com,780-270-9853,https://api.reservation.nichemagazine.me/?id=fjhrr04t5qr2pk2&type=primary_invitation,https://api.reservation.nichemagazine.me/?id=tvbl1ralqamqc0b&type=secondary_invitation,https://api.reservation.nichemagazine.me/?id=svrrzlbnjp4snb4&type=secondary_invitation,https://api.reservation.nichemagazine.me/?id=56v4hq3gwfgysfq&type=secondary_invitation
+Charlie Black,charlie.black@example.com,625-171-7426,https://api.reservation.nichemagazine.me/?id=mgwf6l8nmgv8aou&type=primary_invitation,https://api.reservation.nichemagazine.me/?id=dew2iybi2r8u1du&type=secondary_invitation,,

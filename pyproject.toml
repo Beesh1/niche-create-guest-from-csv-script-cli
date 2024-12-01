@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pythonproject2"
+version = "0.1.0"
+description = ""
+authors = ["Bishoy Sameh <bishoysamehmagdy@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pocketbase = "^0.12.2"
+uvicorn = "^0.32.0"
+fastapi = "^0.115.4"
+uv = "^0.4.28"
+typer = "^0.12.5"
+qrcode = {extras = ["pil"], version = "^8.0"}
+pandas = "^2.2.3"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
